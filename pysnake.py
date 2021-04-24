@@ -12,10 +12,7 @@ clock = pygame.time.Clock()
 fps=30
 
 is_running=True
-a=1
 
-x=0
-y=0
 width=20
 height=20
 
