@@ -13,14 +13,8 @@ fps=30
 
 is_running=True
 
-width=20
-height=20
-
-dx=0
-dy=0
-
-ng_x=20
-ng_y=20
+ng_x=10
+ng_y=10
 
 npx_x=screen_width/ng_x
 npx_y=screen_height/ng_y
